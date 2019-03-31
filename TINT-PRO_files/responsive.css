@@ -1,0 +1,287 @@
+/* lg */
+@media(max-width: 1199px){
+.dealer li p {
+    
+   margin-right: 0;
+}
+.navbar-nav li a {
+    font-size: 13px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+
+}
+.carousel-caption {
+    top: 60px;
+}
+.carousel-caption h1 {
+    font-size: 60px;
+    margin-bottom: 18px;
+}
+.carousel-caption span {
+    width: 32px;
+    margin-bottom: 18px;
+}
+.carousel-caption p {
+    font-size: 15px;
+    margin-bottom: 45px;
+}
+.btn-custom {
+    padding: 9px 26px;
+}
+
+.year-30 {
+    margin-bottom: 50px;
+}
+.year-30 li {
+    max-width: 200px;
+    padding-right: 10px;
+    font-size: 13px;
+}
+.year-30 img{
+	width:80px;
+    padding-left: 10px;
+}
+.testimonial-section .heading .img-left {
+    left: 16px;
+}
+.testimonial-section .heading .img-right {
+    right: 20px;
+}
+.partners ul li img {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.service-area h2 {
+    font-size: 20px;
+}
+.social-area ul li a {
+    margin-right: 9px;
+}
+.search-box form .input-group .form-control {
+    width: 180px;
+}
+
+.year1-30 li {
+    max-width: 200px;
+    padding-right: 10px;
+    font-size: 13px;
+}
+.year1-30 img{
+	width:80px;
+    padding-left: 10px;
+}
+
+
+}
+
+/* md */
+
+@media(max-width: 991px){
+	.social {
+    margin-bottom: 12px;
+}
+.carousel-caption {
+    top: 30px;
+}
+.carousel-caption h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.carousel-caption span {
+    width: 25px;
+    height: 2px;
+    margin-bottom: 15px;
+}
+.carousel-caption p {
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.btn-custom{
+    padding: 6px 18px;
+}
+.year-30{
+    margin-bottom: 100px;
+}
+.year-30 li {
+    max-width: 150px;
+}
+.news-item .news h1 {
+    font-size: 32px;
+}
+.news-item .news img {
+    width: 380px;
+}
+.news-item .news h1 {
+    font-size: 32px;
+}
+.testimonial-section .heading .img-left {
+    left: -52px;
+}
+.testimonial-section .heading .img-right {
+    right: -50px;
+}	
+.testimonial-section .heading h3 {
+    margin-top: 28px;
+    margin-bottom: 42px;
+}
+.box-area .box h2 {
+    font-size: 23px;
+}
+.box-area .box p {
+    font-size: 22px;
+}
+.contact h1 {
+    font-size: 32px;
+    padding-bottom: 15px;
+}
+.contact span {
+    width: 30px;
+    height: 2px;
+}
+.contact ul {
+    padding-top: 15px;
+    line-height: 26px;
+}
+.embed-responsive {
+    min-height: 399px;
+}
+.service-area {
+    margin-top: 67px;
+}
+.service-area h2 {
+    font-size: 18px;
+}
+.service-area a {
+    font-size: 12px;
+}
+.social-area {
+    margin-top: 67px;
+}
+.search-box form .input-group .form-control{
+    width: 105px;
+}
+.year1-30{
+    margin-bottom: 100px;
+}
+.year1-30 li {
+    max-width: 150px;
+}
+}
+
+/* sm */
+
+@media(max-width: 767px){
+.carousel-caption{
+    text-align: center;
+	top: 10px;
+}
+.carousel-caption h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.carousel-caption span {
+    margin-bottom: 10px;
+}
+.carousel-caption p {
+    margin-bottom: 20px;
+}	
+.news-item .news h1 {
+    font-size: 28px;
+}
+.news-item .news img {
+    padding: 18px 36px;
+    width: 350px;
+}
+.heading h1 {
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+.heading span {
+    width: 25px;
+    height: 2px;
+}
+.heading p {
+    padding-top: 10px;
+    font-size: 13px;
+}
+.testimonial-section .heading .img-left {
+    left: -26px;
+    top: 72px;
+    width: 25px;
+}
+.testimonial-section .heading .img-right {
+    right: 14px;
+    top: 138px;
+    width: 25px;
+}
+.testimonial-section .heading h3 {
+    font-size: 15px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+.box-area .box {
+    border: 2px solid #0093a1;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.contact {
+    text-align: center;
+}
+.contact ul li {
+    text-align: center;
+}
+.contact p {
+    margin: 0 auto;
+}
+}
+
+/* ss*/
+
+@media(max-width: 575px){
+.news-item ul li a {
+    font-size: 12px;
+}
+.news-item .news h1 {
+    font-size: 24px;
+}
+.news-item .news img {
+    width: 280px;
+}
+.heading h1 {
+    font-size: 24px;
+}
+.heading p {
+	text-align:center;
+}
+.testimonial-section .heading p {
+    max-width: 300px;
+}
+.testimonial-section .heading .img-left {
+    left: 88px;
+    top: 72px;
+    width: 18px;
+}
+.testimonial-section .heading .img-right {
+    right: 136px;
+    top: 192px;
+    width: 18px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
